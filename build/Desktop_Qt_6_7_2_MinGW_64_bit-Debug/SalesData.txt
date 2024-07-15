@@ -1,0 +1,84 @@
+Receipt Number 1027216
+ Customer Name 
+ Card Number 
+------------------------------
+ Item		Price
+Diary Milk		25
+ Total 25
+Receipt Number 1027558
+ Customer Name Dastag
+ Card Number 123
+------------------------------
+ Item		Price
+Diary Milk		25
+Coke		50
+Pepsi		50
+Lays		20
+ Total 170
+Receipt Number 1020337
+ Customer Name ssd
+ Card Number 1230
+------------------------------
+ Item		Price
+Diary Milk		25
+ Total 25
+Receipt Number 1022153
+ Customer Name Dastagir
+ Card Number 123456
+------------------------------
+ Item		Price
+Coke		50
+Pepsi		50
+Lays		20
+ Total 120
+Receipt Number 1023694
+ Customer Name Dastagir
+ Card Number 123456
+------------------------------
+ Item		Price
+Coke		50
+Pepsi		50
+Lays		20
+ Total 120
+Receipt Number 1022953
+ Customer Name Dastagir
+ Card Number 123456
+------------------------------
+ Item		Price
+Coke		50
+Pepsi		50
+Lays		20
+ Total 120
+Receipt Number 1002845
+ Customer Name Dastagir
+ Card Number 123456
+------------------------------
+ Item		Price
+Coke		50
+Pepsi		50
+Lays		20
+ Total 120
+Receipt Number 1032701
+ Customer Name Akil
+ Card Number 123456
+------------------------------
+ Item		Price
+Lays		20
+Diary Milk		25
+ Total 45
+Receipt Number 1000080
+ Customer Name dada
+ Card Number 130
+------------------------------
+ Item		Price
+Coke		50
+Pepsi		50
+ Total 100
+Receipt Number 1032445
+ Customer Name Dastagir
+ Card Number 12340
+------------------------------
+ Item		Price
+Pepsi		50
+Lays		20
+ Total 70

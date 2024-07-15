@@ -1,0 +1,23 @@
+# ninja log v6
+26	488	7427161900628306	VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+26	488	7427161900628306	VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+5848	6150	7424857035325989	VendingMachineStore.exe	e1bd09fcf3b5acfb
+26	488	7427161900628306	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+26	488	7427161900628306	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+1151	4419	7424856988444510	CMakeFiles/VendingMachineStore.dir/VendingMachineStore_autogen/mocs_compilation.cpp.obj	3fdd8c3bf94b46be
+268	3513	7425549533435874	CMakeFiles/VendingMachineStore.dir/main.cpp.obj	b3eb216f6330d7b0
+517	4957	7427161905655854	CMakeFiles/VendingMachineStore.dir/mainwindow.cpp.obj	5ba5965f26f21bff
+20	433	7427162053135790	VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+20	433	7427162053135790	VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+20	433	7427162053135790	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+20	433	7427162053135790	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+461	3806	7427162057655829	CMakeFiles/VendingMachineStore.dir/main.cpp.obj	b3eb216f6330d7b0
+494	5094	7427162057968506	CMakeFiles/VendingMachineStore.dir/mainwindow.cpp.obj	5ba5965f26f21bff
+16	1041	7427163644274306	VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+16	1041	7427163644274306	VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+16	1041	7427163644274306	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/timestamp	6268e8455c1e54fa
+16	1041	7427163644274306	D:/qt_Projects/VendingMachineStore/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VendingMachineStore_autogen/mocs_compilation.cpp	6268e8455c1e54fa
+1042	4074	7427163645393825	CMakeFiles/VendingMachineStore.dir/VendingMachineStore_autogen/mocs_compilation.cpp.obj	3fdd8c3bf94b46be
+1079	4173	7427163645761346	CMakeFiles/VendingMachineStore.dir/main.cpp.obj	b3eb216f6330d7b0
+1108	5281	7427163645926817	CMakeFiles/VendingMachineStore.dir/mainwindow.cpp.obj	5ba5965f26f21bff
+5281	5574	7427163687706165	VendingMachineStore.exe	e1bd09fcf3b5acfb
